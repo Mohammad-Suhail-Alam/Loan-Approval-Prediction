@@ -29,7 +29,7 @@ Joblib (for saving trained models)
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/loan-approval-prediction.git
+git clone (https://github.com/Mohammad-Suhail-Alam/Loan-Approval-Prediction/edit/main/README.md)
 cd loan-approval-prediction
 2️⃣ Install dependencies:
 
